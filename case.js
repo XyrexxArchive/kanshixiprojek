@@ -51,6 +51,7 @@ async function sendInteractiveMenu(ctx, page = 'home') {
       `│ ${prefix}tiktok URL — Download TikTok`,
       `│ ${prefix}tourl — Upload media ke URL`,
       `│ ${prefix}ping — Cek latency`,
+      `│ ${prefix}tohd — Photo/Video hd`,
       `│ ${prefix}photolive — Video To PhotoLive`,
       '╰━━━━━━━━━━━━━━━━━━╯'
     ],
