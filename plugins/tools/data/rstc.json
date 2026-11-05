@@ -1,0 +1,27 @@
+{
+  "stickers": {
+    "kanshixi": {
+      "emoji": "😈",
+      "items": [
+        {
+          "url": "https://mmg.whatsapp.net/v/t62.15575-24/874772234_1581349193765187_18281649044824106_n.enc?ccb=11-4&oh=01_Q5Aa6AFbx1kjK7elmKBa6WRm_iMR2E8e-YB7T8L_oOyL4Z1N1Q&oe=6B13898B&_nc_sid=5e03e0&mms3=true",
+          "directPath": "/v/t62.15575-24/874772234_1581349193765187_18281649044824106_n.enc?ccb=11-4&oh=01_Q5Aa6AFbx1kjK7elmKBa6WRm_iMR2E8e-YB7T8L_oOyL4Z1N1Q&oe=6B13898B&_nc_sid=5e03e0",
+          "fileSha256": "SrZar38RLyn8JIsS9uadoO1MFqPcd/Xoa01KbMwziJc=",
+          "fileEncSha256": "67ASvcnI1N5Sz83zaG/Uvcr3z9gD8FNsfxdtFYRlOG8=",
+          "mediaKey": "47iCuLFVdkCEAKp3IGMlNXDSxRywtFXH5IsuGs2a6Q0=",
+          "mimetype": "image/webp",
+          "height": 64,
+          "width": 64,
+          "fileLength": "17190",
+          "mediaKeyTimestamp": "1793791145",
+          "isAnimated": true,
+          "isAvatar": false,
+          "isAiSticker": false,
+          "isLottie": false,
+          "firstFrameLength": 16768,
+          "firstFrameSidecar": "FCeLBcJHQL1eBg=="
+        }
+      ]
+    }
+  }
+}
